@@ -26,8 +26,8 @@ To simulate the construction of delta 3D printer and to get in-depth knowledge o
 
 ## OUTPUT:
 
+![Screenshot (259)](https://github.com/VelasiriSreeja/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118344328/48638cb6-65fb-4aad-8253-165730e0e99a)
 
-![Uploading Screenshot (259).png…]()
 
 
 BASE :
